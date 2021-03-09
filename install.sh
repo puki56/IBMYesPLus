@@ -145,7 +145,7 @@ install(){
     {
       "v": "2",
       "ps": "ibmyes",
-      "add": "${IBM_APP_NAME}.us-south.cf.appdomain.cloud",
+      "add": "${IBM_APP_NAME}.apps.internal",
       "port": "443",
       "id": "${UUID}",
       "aid": "4",
